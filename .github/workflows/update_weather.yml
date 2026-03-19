@@ -51,7 +51,7 @@ jobs:
           # Le secret est injecté comme variable d'env
           - name: Mettre à jour la météo
             env:
-            OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+              OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
             run: python update_weather.py
 
           # Étape 5 : Commit et push des changements
