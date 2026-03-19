@@ -1,0 +1,67 @@
+# Nom du workflow (affiché dans l'onglet Actions)
+name: Update Weather Dashboard
+
+# ============================================
+# DÉCLENCHEURS : quand le workflow s'exécute
+# ============================================
+on:
+  schedule:
+      # Planification cron : toutes les 6 heures
+      # Format : Minute Heure Jour Mois JourSemaine
+      - cron: '0 */6 * * *'
+
+  # Permet le lancement manuel depuis GitHub
+  workflow_dispatch:
+  
+  # Se lance aussi à chaque push sur main
+  push:
+    branches: [ main ]
+
+# ============================================
+# JOBS : les tâches à exécuter
+# ============================================
+jobs:
+
+ update-weather:
+      # Machine virtuelle utilisée par GitHub
+      runs-on: ubuntu-latest
+
+      # Permissions pour pouvoir push sur le repo
+      permissions:
+        contents: write
+
+      # Étapes séquentielles du job
+      steps:
+
+          # Étape 1 : Récupérer le code du repo
+          - name: Checkout du repository
+            uses: actions/checkout@v4
+
+          # Étape 2 : Installer Python
+          - name: Installer Python
+            uses: actions/setup-python@v5
+            with:
+            python-version: '3.11'
+
+          # Étape 3 : Installer les dépendances Python
+          - name: Installer les dépendances
+            run: pip install -r requirements.txt
+
+          # Étape 4 : Exécuter le script météo
+          # Le secret est injecté comme variable d'env
+          - name: Mettre à jour la météo
+            env:
+            OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+            run: python update_weather.py
+
+          # Étape 5 : Commit et push des changements
+          - name: Commit et push
+            run: |
+              git config --local user.email "action@github.com"
+              git config --local user.name "GitHub Action Bot"
+              git add README.md
+              git diff --staged --quiet || (
+              git commit -m "MAJ météo auto - $(date -u)"
+              git push
+              )
+ 
