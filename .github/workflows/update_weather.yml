@@ -41,7 +41,7 @@ jobs:
           - name: Installer Python
             uses: actions/setup-python@v5
             with:
-            python-version: '3.11'
+              python-version: '3.11'
 
           # Étape 3 : Installer les dépendances Python
           - name: Installer les dépendances
