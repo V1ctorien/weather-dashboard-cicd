@@ -2,12 +2,12 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 27/03/2026 à 12:39 UTC
+## Meteo actuelle - 27/03/2026 à 18:42 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent |
 |-------|-------|------|----------|----------|------|
-| ☀️ Paris | Ciel dégagé | 10.5°C | 8.8°C | 46% | 18.5 km/h |
-| 🌧️ London | Légère pluie | 11.9°C | 11.1°C | 74% | 18.5 km/h |
-| ☁️ New York | Couvert | 12.9°C | 12.1°C | 69% | 32.2 km/h |
-| 🌧️ Tokyo | Légère pluie | 12.4°C | 11.8°C | 79% | 22.2 km/h |
-| ☁️ Sydney | Couvert | 16.3°C | 15.5°C | 57% | 31.5 km/h |
+| ☁️ Paris | Couvert | 9.6°C | 7.8°C | 61% | 11.6 km/h |
+| ☁️ London | Couvert | 10.6°C | 10.1°C | 90% | 11.4 km/h |
+| ☁️ New York | Couvert | 12.5°C | 11.1°C | 48% | 17.5 km/h |
+| ☁️ Tokyo | Couvert | 10.9°C | 10.3°C | 87% | 12.3 km/h |
+| ☁️ Sydney | Couvert | 14.5°C | 13.7°C | 64% | 26.9 km/h |
