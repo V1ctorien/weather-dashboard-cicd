@@ -2,12 +2,12 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 15/04/2026 à 12:58 UTC
+## Meteo actuelle - 15/04/2026 à 18:59 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent |
 |-------|-------|------|----------|----------|------|
-| ☁️ Paris | Couvert | 16.8°C | 15.8°C | 50% | 12.0 km/h |
-| ☁️ London | Couvert | 16.7°C | 16.3°C | 72% | 21.0 km/h |
-| ☀️ New York | Ciel dégagé | 22.1°C | 22.2°C | 73% | 11.6 km/h |
-| 🌧️ Tokyo | Pluie modérée | 15.9°C | 15.8°C | 85% | 26.5 km/h |
-| ☁️ Sydney | Peu nuageux | 15.9°C | 15.7°C | 81% | 3.7 km/h |
+| ☀️ Paris | Ciel dégagé | 15.0°C | 14.5°C | 73% | 10.1 km/h |
+| ☀️ London | Ciel dégagé | 13.2°C | 12.6°C | 74% | 19.2 km/h |
+| ☁️ New York | Couvert | 30.5°C | 31.3°C | 47% | 21.1 km/h |
+| 🌧️ Tokyo | Légère pluie | 16.0°C | 15.7°C | 77% | 23.0 km/h |
+| ☀️ Sydney | Ciel dégagé | 13.8°C | 13.5°C | 87% | 12.3 km/h |
