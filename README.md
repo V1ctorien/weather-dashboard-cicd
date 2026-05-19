@@ -2,12 +2,12 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 19/05/2026 à 02:10 UTC
+## Meteo actuelle - 19/05/2026 à 08:57 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent |
 |-------|-------|------|----------|----------|------|
-| ☀️ Paris | Ciel dégagé | 10.4°C | 9.9°C | 90% | 7.4 km/h |
-| 🌧️ London | Pluie modérée | 11.1°C | 10.5°C | 87% | 18.5 km/h |
-| ☀️ New York | Ciel dégagé | 26.5°C | 26.5°C | 59% | 18.5 km/h |
-| ☀️ Tokyo | Ciel dégagé | 27.5°C | 27.7°C | 47% | 3.2 km/h |
-| ☁️ Sydney | Nuageux | 19.4°C | 19.4°C | 80% | 14.8 km/h |
+| ☁️ Paris | Couvert | 13.5°C | 12.9°C | 76% | 24.1 km/h |
+| ☁️ London | Nuageux | 13.5°C | 13.2°C | 89% | 18.5 km/h |
+| ☀️ New York | Ciel dégagé | 23.4°C | 23.7°C | 74% | 14.8 km/h |
+| ☁️ Tokyo | Partiellement nuageux | 24.6°C | 24.8°C | 67% | 37.0 km/h |
+| 🌧️ Sydney | Légère pluie | 15.9°C | 15.9°C | 90% | 14.8 km/h |
