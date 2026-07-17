@@ -2,12 +2,12 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 17/07/2026 à 01:42 UTC
+## Meteo actuelle - 17/07/2026 à 07:50 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent |
 |-------|-------|------|----------|----------|------|
-| ☁️ Paris | Peu nuageux | 20.5°C | 20.7°C | 83% | 7.1 km/h |
-| ☀️ London | Ciel dégagé | 16.8°C | 16.6°C | 78% | 1.6 km/h |
-| ☁️ New York | Peu nuageux | 27.8°C | 28.1°C | 48% | 12.9 km/h |
-| 🌧️ Tokyo | Pluie modérée | 31.3°C | 38.3°C | 72% | 20.3 km/h |
-| 🌧️ Sydney | Légère pluie | 15.0°C | 14.5°C | 74% | 3.2 km/h |
+| ☁️ Paris | Couvert | 23.6°C | 24.0°C | 75% | 9.0 km/h |
+| ☀️ London | Ciel dégagé | 18.4°C | 18.3°C | 75% | 1.6 km/h |
+| ☀️ New York | Ciel dégagé | 24.1°C | 24.1°C | 59% | 8.1 km/h |
+| ☁️ Tokyo | Couvert | 29.0°C | 35.5°C | 83% | 3.2 km/h |
+| ☁️ Sydney | Partiellement nuageux | 13.8°C | 13.2°C | 76% | 1.6 km/h |
