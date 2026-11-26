@@ -2,12 +2,12 @@
 > Ce README est mis à jour automatiquement
 > par GitHub Actions toutes les 6 heures !
 
-## Meteo actuelle - 26/11/2026 à 01:16 UTC
+## Meteo actuelle - 26/11/2026 à 15:58 UTC
 
 | Ville | Météo | Temp | Ressenti | Humidité | Vent |
 |-------|-------|------|----------|----------|------|
-| 🌫️ Paris | Brouillard | 5.2°C | 2.1°C | 95% | 14.8 km/h |
-| ☁️ London | Couvert | 5.8°C | 2.3°C | 87% | 18.5 km/h |
-| ☀️ New York | Ciel dégagé | 6.9°C | 3.2°C | 67% | 22.2 km/h |
-| ☁️ Tokyo | Nuageux | 11.6°C | 10.2°C | 54% | 5.5 km/h |
-| ☁️ Sydney | Nuageux | 23.8°C | 24.0°C | 69% | 18.5 km/h |
+| ☁️ Paris | Partiellement nuageux | 3.7°C | 1.7°C | 87% | 7.4 km/h |
+| ☁️ London | Couvert | 4.4°C | 0.8°C | 77% | 16.7 km/h |
+| 🌧️ New York | Légère pluie | 6.7°C | 0.9°C | 83% | 51.8 km/h |
+| 🌧️ Tokyo | Forte pluie | 11.3°C | 10.1°C | 61% | 11.1 km/h |
+| ☁️ Sydney | Couvert | 20.1°C | 20.4°C | 88% | 11.1 km/h |
